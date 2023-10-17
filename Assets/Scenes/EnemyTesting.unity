@@ -407,10 +407,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1875949190833232242, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 4
-      objectReference: {fileID: 0}
     - target: {fileID: 2149578897047108076, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
       propertyPath: m_Radius
       value: 0.5
@@ -418,14 +414,6 @@ PrefabInstance:
     - target: {fileID: 2149578897047108076, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
       propertyPath: m_IsTrigger
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3447326211460796212, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
-      propertyPath: m_Radius
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4301806056276743900, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
-      propertyPath: m_BodyType
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4790495208479144473, guid: 3f223cf74ff7d6d4a82c508e9670e21d, type: 3}
       propertyPath: m_LocalScale.x
